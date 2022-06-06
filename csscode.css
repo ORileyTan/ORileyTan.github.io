@@ -13,6 +13,7 @@ button {
 .invisible {
     display: none;
 }
+/*.Visible is for an anti I accidentally break something meassure*/
 .visible {
     display: block;
 }
