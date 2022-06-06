@@ -4,3 +4,9 @@ pre {
     white-space: normal;
     margin: 1em 0px;
 }
+button:disabled {
+    cursor: not-allowed;
+}
+button {
+    cursor: pointer;
+}
