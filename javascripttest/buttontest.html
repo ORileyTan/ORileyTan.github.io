@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Button Test</title>
+<link rel="stylesheet" href="/csscode.css">
+</head>
+<body>
+  <noscript>Javascript is disabled you will need to enable Javascript for this to work.</noscript>
+  <button id="OpenOtherMenu" onclick="Open()" disabled>Button</button>
+  <div id="MainMenu" class="invisible">
+  <button id="OpenOtherMenu" onclick="">Button</button>
+  </div>
+  <a href="/javascripttest">Back</a>
+<script>
+document.getElementById("OpenOtherMenu").disabled = false;
+function Open() {
+  document.getElementById("MainMenu").setAttribute("class", "visible"); 
+}
+</script>
+</body>
+</html>
