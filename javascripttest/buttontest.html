@@ -5,10 +5,13 @@
 <link rel="stylesheet" href="/csscode.css">
 </head>
 <body>
+  <audio id="Button Sound">
+  <source src="resources/sounds/button_pressed.wav" type="audio/wav">
+  </audio>
   <noscript>Javascript is disabled you will need to enable Javascript for this to work.</noscript>
   <button id="OpenOtherMenu" onclick="Open()" disabled>Button</button>
   <div id="MainMenu" class="invisible">
-  <button id="OpenOtherMenu" onclick="">Button</button>
+  <button id="OpenOtherMenu" onclick="TriggerSound()">Play Sound</button>
   </div>
   <bv>
   <a href="/javascripttest">Back</a>
@@ -17,6 +20,9 @@
 document.getElementById("OpenOtherMenu").disabled = false;
 function Open() {
   document.getElementById("MainMenu").setAttribute("class", "visible"); 
+}
+  function TriggerSound() {
+  document.getElementById("Button Sound").play();
 }
 </script>
 </body>
