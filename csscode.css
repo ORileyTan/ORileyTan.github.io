@@ -5,9 +5,11 @@ pre {
     margin: 1em 0px;
 }
 button:disabled {
+    font-family: Serif;
     cursor: not-allowed;
 }
 button {
+    font-family: Serif;
     cursor: pointer;
 }
 .invisible {
