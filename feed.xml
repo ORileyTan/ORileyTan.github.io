@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<channel>
-<title>SUPER DUPER EPIC FEED THING THAT IS OUTDATED</title>
-<link>https://orileytan.github.io</link>
-<description>This is an RSS feed where I may occasinally post stuff but it's just a fun gimmik because Twitter exists</description>
-<language>en-us</language>
-</channel>
-<item>
-<title>TEST</title>
-<pubDate>Mon 1 Jan 1970 00:00</pubDate>
-<link>https://orileytan.github.io</link>
-<description><![CDATA[TEST]]></description>
-<category>Main</category>
-</item>
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>SUPER DUPER EPIC FEED THING THAT IS OUTDATED</title>
+    <link>https://orileytan.github.io</link>
+    <description>This thing is just a fun gimmick and test for web browsers to see if they still properly support RSS. Follow if you want to but the likelyhood of me posting here is very very small just follow me on twitter.</description>
+    <language>en-us</language>
+    <copyright>Feel free to use this code. 2022</copyright>
+    <item>
+      <title>TEST</title>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
+      <link>https://orileytan.github.io</link>
+      <guid isPermaLink="true">https://orileytan.github.io</guid>
+      <category>TEST</category>
+      <description><![CDATA[This is just to test feeds so there is nothing worthwhile here just follow my twitter instead]]></description>
+    </item>
+  </channel>
 </rss>
