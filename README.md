@@ -1,9 +1,7 @@
 # orileytan.github.io
-Generic Website
+Testing Website
 
-This is a generic github repository for me to mess around with html code and code related to html and also to test web functionality on older devices.
-You can use this for testing your old devices and linking the website here is not required because it's useless for anything else other than "Hey can that old android phone play .wav files and javascript?".
+I built this site for testing my devices from like a decade ago for no reason
 
-# --Notes--
-
-Do Not add any kind of files with the name "nonexistantfile" it will break the "Test the 404 page"
+# Currently being rebuilt
+I'm rebuilding the website for better expansion capabilities
