@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>SUPER DUPER EPIC FEED THING THAT IS OUTDATED</title>
+<link>https://orileytan.github.io</link>
+<description>This is an RSS feed where I may occasinally post stuff but it's just a fun gimmik because Twitter exists</description>
+<language>en-us</language>
+</channel>
+<item>
+<title>TEST</title>
+<pubDate>Mon 1 Jan 1970 00:00</pubDate>
+<link>https://orileytan.github.io</link>
+<description><![CDATA[TEST]]></description>
+<category>Main</category>
+</item>
+</rss>
