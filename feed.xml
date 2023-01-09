@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="/asset/scripts/rssfeed.css" media="screen"?>
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
@@ -7,6 +8,12 @@
     <description>This thing is just a fun gimmick and test for web browsers to see if they still properly support RSS. Follow if you want to but the likelyhood of me posting here is very very small just follow me on twitter.</description>
     <language>en-us</language>
     <copyright>Feel free to use this code. 2022</copyright>
+    <item>
+      <title>Added a style for the RSS feed</title>
+      <pubDate>Mon, 9 Jan 2023 00:00:00 GMT</pubDate>
+      <category>Building this site</category>
+      <description><![CDATA[There is a tutorial online on how to do it and they let people use it, I'm gonna modify it although...]]></description>
+    </item>
     <item>
       <title>Other stuff</title>
       <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
