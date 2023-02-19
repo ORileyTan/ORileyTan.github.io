@@ -1,0 +1,45 @@
+/*
+Hello inspect element people wanting to see how I coded the entire site
+This css file here is just for standardization so It won't be a pain to update the pages such as if I want to apply a holiday theme
+also if anyone decides to link their site to this css code for whatever reason please do not because I may take the site down for whatever reason
+and if you do well I'm not stopping you but kind to link my site?
+https://orileytan.github.io
+*/
+/*Stuff below this is old css code*/
+/*pre {
+    display: block;
+    font-family: Serif;
+    white-space: normal;
+    margin: 1em 0px;
+}
+button:disabled {
+    font-family: Serif;
+    cursor: not-allowed;
+}
+button {
+    font-family: Serif;
+    cursor: pointer;
+}
+.invisible {
+    display: none;
+}
+Visible is for an anti I accidentally break something meassure
+.visible {
+    display: block;
+}*/
+/*Stuff below will be new css code*/
+.warning {
+color: white;
+background-color: orange;
+margin-block-start: 0em;
+margin-block-end: 0em;
+}
+.spacer {
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    margin: 0px;
+}
