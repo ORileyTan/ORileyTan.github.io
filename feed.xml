@@ -11,6 +11,29 @@ Built with RSS Builder by B!Soft</description>
     <language>en-us</language>
     <copyright>Feel free to use this code. 2022</copyright>
     <item>
+      <title>What I may add to this website?</title>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0700</pubDate>
+      <category>Random Posts</category>
+      <description><![CDATA[NO IDEA!..... well not really I have plans to add my personal website here and that's why I updated the site from the older file system to a newer one and rewrote all the webpages.
+It's likely gonna be 90s style utilizing
+<table cols=2 border=2>
+<tbody>
+<tr>
+<td>No.</td>
+<td>Data.</td></tr>
+<tr>
+<td>1</td>
+<td>TABLES!!!!!</td></tr>
+<tr>
+<td>2</td>
+<td>
+<p>WOW SO COOL!</p></td></tr>
+<tr>
+<td>3</td>
+<td>PLEASE FOLOW MY TWITTER INSTEAD OF THIS!!!</td></tr></tbody></table>
+And basically any 90s thing I can find such as websafe colors so very happy day for people who STILL USE A 256 COLOR DISPLAY DRIVER IN 2023!!! and it may or may not contain combustible lemons that burns your hose down.]]></description>
+    </item>
+    <item>
       <title>Added a style for the RSS feed</title>
       <pubDate>Mon, 9 Jan 2023 00:00:00 GMT</pubDate>
       <category>Building this site</category>
