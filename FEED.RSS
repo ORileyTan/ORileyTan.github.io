@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="RSS.CSS" media="screen"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>ORileyTan's Epic RSS Feed</title>
+    <link>https://orileytan.github.io</link>
+    <description>Where I post updates and other stuff that is not related to youtube such as update logs bla bla bla.</description>
+    <language>en-us</language>
+    <item>
+      <title>EVERYTHING TEST</title>
+      <pubDate>Sun, 30 Jul 2023 09:47:03 +0700</pubDate>
+      <link>http://example.com</link>
+      <author>johndoe@example.com</author>
+      <comments>http://example.com</comments>
+      <category>TEST</category>
+      <enclosure url="BACKGROUND.BMP" length="308,278" type="image/bmp" />
+      <description><![CDATA[This is to test absolutely everything I can do on this thing]]></description>
+    </item>
+    <item>
+      <title>TEST</title>
+      <pubDate>Sun, 30 Jul 2023 08:19:18 +0700</pubDate>
+      <category>TEST</category>
+      <description><![CDATA[TEST]]></description>
+    </item>
+  </channel>
+</rss>
