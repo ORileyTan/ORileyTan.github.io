@@ -5,7 +5,7 @@ display: none;
 }
 /*Handles background image*/
 rss {
- background-image: url("BACKGROUND.BMP");
+ background-image: url("background.bmp");
  background-color: #A6CAF0;
 background-repeat: no-repeat;
 background-attachment: fixed;
