@@ -5,9 +5,19 @@
     <generator>RSS Builder by B!Soft</generator>
     <title>ORileyTan's Epic RSS Feed</title>
     <link>https://orileytan.github.io</link>
-    <description>Where I post updates and other stuff that is not related to youtube such as update logs bla bla bla.</description>
+    <description>Where I post updates and other stuff that is not related to youtube such as update logs bla bla bla. Oh yea epic credits to B!Soft!</description>
     <language>en-us</language>
-              <item>
+    <managingEditor>whatnamesaeravaiablethisthingisannoying@hotmail.com</managingEditor>
+    <webMaster>whatnamesaeravaiablethisthingisannoying@hotmail.com</webMaster>
+    <item>
+      <title>I just destroyed a highly advanced piece of military equippment with nothing but a crowbar</title>
+      <pubDate>Fri, 1 Sep 2023 20:19:18 +0700</pubDate>
+      <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>
+      <comments>http://youtube.com/TswcuOTeqQE</comments>
+      <category>Random Stuff</category>
+      <description><![CDATA[I just destroyed a highly advanced piece of military equippment with nothing but a crowbar! How is it possible you may ask? No idea ask Gearbox! On other notes I've already beaten almost all of Half-Life's games just Opposing Force. I may also try to beat mods for Portal and Half-Life. Oh yeah you may have noticed "The Stream" and if you are scared DO NOT. It's just me testing a "mirror" effect and it's quite easy to replicate, Just setup a webcam and set it to obs's virtual camera.]]></description>
+    </item>
+    <item>
       <title>Oh no a friend got hacked!</title>
       <pubDate>Fri, 18 Aug 2023 20:23:28 +0700</pubDate>
       <category>Random Stuff</category>
