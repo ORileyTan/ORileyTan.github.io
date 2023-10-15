@@ -1,6 +1,7 @@
 /*This is to remove some unessesary stuff that is not required*/
 /*Created 8:24 AM 7/30/2023 feel free to use it but change it up a bit atleast*/
-generator, language, channel > link, enclosure, managingEditor, webMaster {
+/*For deleting stuff that I can't or won't use*/
+generator, language, channel > link, enclosure, managingEditor, webMaster, copyright {
 display: none;
 }
 /*Handles background image*/
@@ -50,11 +51,15 @@ channel > item {
  margin-top: 1%;
 }
 channel > item > title {
- text-align: center;
- color: #FF9900;
- font-family: "Comic Sans MS";
- display: block;
-background-color: darkblue;
+    text-align: center;
+    color: #FF9900;
+    font-family: "Comic Sans MS";
+    display: block;
+    background-color: darkblue;
+    background-image: url(topbar.png);
+    background-repeat-y: no-repeat;
+    background-position-y: bottom;
+    background-size: contain;
 }
 channel > item > pubDate {
  display: block;
