@@ -11,6 +11,16 @@
     <webMaster>whatnamesaeravaiablethisthingisannoying@hotmail.com</webMaster>
     <copyright>Don't steal this feed</copyright>
     <item>
+      <title>I've rebuilt the website</title>
+      <pubDate>Fri, 17 Nov 2023 16:59:32 +0700</pubDate>
+      <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>
+      <category>Website stuff</category>
+      <description><![CDATA[I've decided to rebuild the website because the current way I store files is very messy (Casually placing all files in the root directory) which yea isn't great and why I did it was because I was creating the website on a Pentium 4 512MB PC with Windows 7 installed which ran very very poorly and also damaged monitor and ATI graphics card (The PC is so old it doesn't have on-board graphics apparently). So I re-built the website so that all files are neatly (almost) organized and added a bunch of changes which may make the site less usable on older devices.
+
+This probably will be the last time that this version of the website will be used (Unless I have to rollback due to some random issue with the new site).
+The new site (which is basically almost identical to the previous one) will be launching this december with some site downtime so that devices connected to the site may be able to load the newer version of the site properly because the last time I did this my iPad didn't load the new version but loaded the previous version from cache (images didn't load).]]></description>
+    </item>
+    <item>
       <title>We tortured ROBLOX servers</title>
       <pubDate>Wed, 1 Nov 2023 20:47:14 +0700</pubDate>
       <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>
