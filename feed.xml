@@ -5,11 +5,20 @@
     <generator>RSS Builder by B!Soft</generator>
     <title>ORileyTan's Epic RSS Feed</title>
     <link>https://orileytan.github.io</link>
-    <description>Where I post updates and other stuff that is not related to youtube such as update logs bla bla bla. Oh yea epic credits to B!Soft!</description>
+    <description>Where I post updates and other stuff that is not related to youtube such as update logs bla bla bla. Oh yea epic credits to B!Soft! Using an external RSS reader or IE is highly recommended.</description>
     <language>en-us</language>
     <managingEditor>whatnamesaeravaiablethisthingisannoying@hotmail.com</managingEditor>
     <webMaster>whatnamesaeravaiablethisthingisannoying@hotmail.com</webMaster>
     <copyright>Don't steal this feed</copyright>
+    <item>
+      <title>cp_steel, Site of alien abduction</title>
+      <pubDate>Sun, 11 Feb 2024 10:51:53 +0700</pubDate>
+      <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>
+      <comments>mailto:whatnamesaeravaiablethisthingisannoying@hotmail.com</comments>
+      <category>TF2 crap</category>
+      <enclosure url="https://orileytan.github.io/blogimg/2024/002.jpg" length="14112" type="image/jpeg" />
+      <description><![CDATA[Today an unidentified MANn has been abducted in front of the BLU spawn room, The footage avaiable from the incident is brief and not much context can be obtained other than cp_steel at the time being overrun by bots. Are the bots now abducting random players to become more bots?]]></description>
+    </item>
     <item>
       <title>Update to Randomly Generated Maze</title>
       <pubDate>Thu, 21 Dec 2023 08:45:27 +0700</pubDate>
@@ -34,6 +43,8 @@ Play now! https://www.roblox.com/games/5033769623]]></description>
       <title>HAPPY 25TH ANNIVERSARY HALF-LIFE</title>
       <pubDate>Sun, 19 Nov 2023 09:42:37 +0700</pubDate>
       <guid isPermaLink="true">https://half-life.com/en/halflife25/</guid>
+      <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>
+      <category>Half-Life</category>
       <enclosure url="https://orileytan.github.io/blogimg/2023/007.jpg" length="32967" type="image/jpeg" />
       <description><![CDATA[VALVe updated Half-Life steam after 19 years and it's epic!
 They remade the main menu to resemble the one from the WON builds of Half Life
