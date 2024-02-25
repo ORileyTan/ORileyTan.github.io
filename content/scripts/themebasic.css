@@ -1,11 +1,11 @@
-/*ORILEYTAN'S SITE 90s INSTALLER THEME*/
-/*CREATED 8:55 PM 2/25/2024*/
+/*ORILEYTAN'S SITE BASIC THEME*/
+/*CREATED 4:37 PM 11/17/2023*/
 /*ORILEYTAN*/
 body {
-    background-image: url(/orileytan.github.io/content/images/backgrounds/90sinstaller.png);
-    /* background-repeat: no-repeat; */
-    background-attachment: fixed;
-    background-size: contain;
+background-image:url('/content/images/backgrounds/background.bmp');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
 }
 a:link {
 color: #CC6600;
