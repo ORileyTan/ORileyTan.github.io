@@ -11,6 +11,14 @@
     <webMaster>whatnamesaeravaiablethisthingisannoying@hotmail.com</webMaster>
     <copyright>Don't steal this feed</copyright>
     <item>
+      <title>Minor style change</title>
+      <pubDate>Wed, 10 Apr 2024 11:05:20 +0700</pubDate>
+      <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>
+      <category>Website stuff</category>
+      <description><![CDATA[A pretty basic website update adding text shadows and some additional content in the homepage.
+Also I changed the background image of the RSS feed to a generic one because I never update the css script that handles this part of the website. and the rest of the website no longer uses the 90s installer background.]]></description>
+    </item>
+    <item>
       <title>cp_steel, Site of alien abduction</title>
       <pubDate>Sun, 11 Feb 2024 10:51:53 +0700</pubDate>
       <author>whatnamesaeravaiablethisthingisannoying@hotmail.com</author>

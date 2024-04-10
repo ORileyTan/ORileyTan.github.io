@@ -1,32 +1,64 @@
-/*ORILEYTAN'S SITE 90s INSTALLER THEME*/
-/*CREATED 8:55 PM 2/25/2024*/
+/*ORILEYTAN'S SITE BASIC THEME*/
+/*CREATED 4:37 PM 11/17/2023*/
 /*ORILEYTAN*/
 body {
-    background-image: url(/content/images/backgrounds/90sinstaller.png);
-    /* background-repeat: no-repeat; */
-    background-attachment: fixed;
-    background-size: contain;
+background-image:url('/content/images/backgrounds/background.bmp');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
 }
+/*Links and other stuff*/
 a:link {
-color: #CC6600;
-font-family: "Comic Sans MS";
+color: #FF8C00;
+  font-family: Garamond, serif;
 text-decoration: none;
+  font-weight: bold;
 }
 a:visited {
-color: #CC6600;
-font-family: "Comic Sans MS";
+color: #FF8C00;
+  font-family: Garamond, serif;
 text-decoration: none;
+  font-weight: bold;
 }
 a:hover {
-color: #FF9900;
-font-family: "Comic Sans MS";
+color: #FFF500;
+  font-family: Garamond, serif;
 text-decoration: none;
+  font-weight: bold;
 }
 a:active {
-color: #FF9900;
-font-family: "Comic Sans MS";
+color: #FFFFFF;
+  font-family: Garamond, serif;
 text-decoration: none;
+  font-weight: bold;
 }
+#nottopbarurlthing {
+color: #0000FF;
+  font-family: Garamond, serif;
+text-decoration: none;
+  font-weight: bold;
+}
+#nottopbarurlthing:active {
+color: #FFFFFF;
+  font-family: Garamond, serif;
+text-decoration: none;
+  font-weight: bold;
+}
+#nottopbarurlthing:hover {
+color: #ADD8E6;
+  font-family: Garamond, serif;
+text-decoration: none;
+  font-weight: bold;
+}
+
+a {
+  text-shadow: -2px 2px 2px #000000;
+}
+p {
+  text-shadow: -2px 2px 2px #000000;
+}
+
+/*website thing*/
 .sitenavbar {
 background-color: #808080;
 }
